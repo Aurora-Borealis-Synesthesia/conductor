@@ -1,0 +1,5 @@
+%{"fs": {:hex, :fs, "0.9.2"},
+  "mix_test_watch": {:hex, :mix_test_watch, "0.1.1"},
+  "osc": {:git, "git://github.com/lpil/osc.git", "a3cd313bd3523dc3ec2fdb8fb9aee91bbc5d08a7", []},
+  "porcelain": {:hex, :porcelain, "2.0.0"},
+  "shouldi": {:hex, :shouldi, "0.2.3"}}
